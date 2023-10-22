@@ -57,7 +57,7 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 
-    Database - PostgreSQL --> Aplikasi - Java Script React Native
+    Database - PostgreSQL --> Aplikasi - Java
     
 ## 5. Teknologi, Library, dan Framework
 
