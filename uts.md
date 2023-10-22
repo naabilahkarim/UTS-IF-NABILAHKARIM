@@ -72,7 +72,14 @@ erDiagram
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+start menu : https://ibb.co/Mc67wyV
+login menu : https://ibb.co/CswZGWf
+homepage : https://ibb.co/hWZCC3C
+yourprifile : https://ibb.co/4PPDgnW
+upload menu : https://ibb.co/Fhtd0vL
+postingan 1 : https://ibb.co/QpRjmBM
+postingan 2 : https://ibb.co/bN9pptg
+liked postingan : https://ibb.co/vHCyP78
 
 ## 7. Demonstrasi Video
 
