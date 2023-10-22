@@ -71,7 +71,6 @@ erDiagram
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
 start menu : https://ibb.co/Mc67wyV
 login menu : https://ibb.co/CswZGWf
 homepage : https://ibb.co/hWZCC3C
