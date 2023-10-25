@@ -69,14 +69,7 @@ erDiagram
 
 ## 6. Desain User Experience dan User Interface
 
-start menu : https://ibb.co/Mc67wyV
-login menu : https://ibb.co/CswZGWf
-homepage : https://ibb.co/hWZCC3C
-yourprifile : https://ibb.co/4PPDgnW
-upload menu : https://ibb.co/Fhtd0vL
-postingan 1 : https://ibb.co/QpRjmBM
-postingan 2 : https://ibb.co/bN9pptg
-liked postingan : https://ibb.co/vHCyP78
+igma.com/proto/HKT4NL8fR0vwJs4x4JiDEj/Workspace-Minostudio?type=design&node-id=305-2&t=UOrDniz9dNrb5l99-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=305%3A2
 
 ## 7. Demonstrasi Video
 
