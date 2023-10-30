@@ -4,10 +4,16 @@
     sedang mencari inspirasi atau ide untuk memotret. Dengan desain nya yang simple dan mempunyai fitur posting dan
     visit profile dapat memudahkan pengguna untuk berinteraksi.
 
+
 ## 1.2. Deskripsi Teknologi Informasi
 
     Teknologi Informasi adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat,
     mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi.
+
+    Minoshots adalah sebuah aplikasi yang dibuat untuk para fotografer yang
+    sedang mencari inspirasi atau ide untuk memotret. Dengan desain nya yang simple dan mempunyai fitur posting dan
+    visit profile dapat memudahkan pengguna untuk berinteraksi.
+
 
 ## 1.3. Branding
 
@@ -18,6 +24,8 @@
                         - Orang yang ingin mencari inspirasi potretan
                         - Fotografer yang ingin mencari kenalan sesama fotografer
                         - Traveller yang mencari tempat-tempat indah
+    Tema :
+    Warna :
 
 ## 2. User Story
 
