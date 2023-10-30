@@ -2,7 +2,7 @@
 
    Fotografi adalah proses mengambil gambar menggunakan kamera atau perangkat lain untuk merekam detail       visual dengan bantuan cahaya pada media seperti film atau sensor digital. Tujuan dari fotografi antara lain merekam dan berkomunikasi melalui gambar. Ini bisa digunakan untuk dokumentasi, ekspresi seni, jurnalisme, membagi cerita, mengabadikan momen berharga, dan menyampaikan pesan atau informasi visual kepada penonton. Fotografi memungkinkan orang untuk berbagi pengalaman, mengungkapkan ide, dan merayakan keindahan dunia dalam bentuk gambar.
 
-   Menurut Google dalam "Top 10 Content on Instagram", Fotografi berada dalam urutan ke-7 yang artinya dalam sebuah sosial media, konten dengan kategori fotografi kurang diminati. Sehingga aplikasi ini dibuat agar memudahkan para fotografer atau user yang ingin mencari inspirasi terkait fotografi. Dengan Aplikasi yang dibuat ini hanya user dengan mudah bisa langsung melihat karya-karya dari fotografer lain tanpa harus menulis kata kunci di kolom pencarian.
+   Menurut Google dalam "Top 10 Content on Instagram", Fotografi berada dalam urutan ke-7 yang artinya dalam sebuah sosial media, konten dengan kategori fotografi kurang diminati. Sehingga aplikasi ini dibuat agar memudahkan para fotografer atau user yang ingin mencari inspirasi terkait fotografi. Dalam aplikasi yang dibuat ini user dengan mudah bisa langsung melihat karya-karya dari fotografer lain tanpa harus menulis kata kunci di kolom pencarian.
 
    Aplikasi ini juga bisa memudahkan para fotografer profesional untuk mendemonstrasikan karya-karya mereka yang nantinya bisa menarik perhatian para klien untuk memakai jasa mereka.
    
@@ -67,17 +67,18 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 
-    Database - PostgreSQL --> Aplikasi - Java
+    Database - PostgreSQL --> Aplikasi - JavaSwing
     
 ## 5. Teknologi, Library, dan Framework
 
  
-    Teknologi:  - React Native
+    Teknologi:  - Java
                 - PostgreSQL
+                - Figma
  
-    Library:    - x
+    Library:    - Swing
 
-    Framework:  - x
+    Framework:  - Swing
 
 ## 6. Desain User Experience dan User Interface
 https://www.figma.com/proto/HKT4NL8fR0vwJs4x4JiDEj/Workspace-Minostudio?type=design&node-id=305-2&t=UOrDniz9dNrb5l99-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=305%3A2
