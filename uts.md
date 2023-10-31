@@ -2,7 +2,7 @@
 
    Fotografi adalah proses mengambil gambar menggunakan kamera atau perangkat lain untuk merekam detail       visual dengan bantuan cahaya pada media seperti film atau sensor digital. Tujuan dari fotografi antara lain merekam dan berkomunikasi melalui gambar. Ini bisa digunakan untuk dokumentasi, ekspresi seni, jurnalisme, membagi cerita, mengabadikan momen berharga, dan menyampaikan pesan atau informasi visual kepada penonton. Fotografi memungkinkan orang untuk berbagi pengalaman, mengungkapkan ide, dan merayakan keindahan dunia dalam bentuk gambar.
 
-   Menurut Google dalam "Top 10 Content on Instagram", Fotografi berada dalam urutan ke-7 yang artinya dalam sebuah sosial media, konten dengan kategori fotografi kurang diminati. Sehingga aplikasi ini dibuat agar memudahkan para fotografer atau user yang ingin mencari inspirasi terkait fotografi. Dalam aplikasi yang dibuat ini user dengan mudah bisa langsung melihat karya-karya dari fotografer lain tanpa harus menulis kata kunci di kolom pencarian.
+   Menurut Google dalam "Top 10 Content on Instagram", Fotografi berada dalam urutan ke-7 yang artinya di instgaram, konten dengan kategori fotografi kurang diminati. Sehingga aplikasi ini dibuat agar memudahkan para fotografer atau user yang ingin mencari inspirasi terkait fotografi. Dalam aplikasi yang dibuat ini user dengan mudah bisa langsung melihat karya-karya dari fotografer lain tanpa harus menulis kata kunci di kolom pencarian.
 
    Aplikasi ini juga bisa memudahkan para fotografer profesional untuk mendemonstrasikan karya-karya mereka yang nantinya bisa menarik perhatian para klien untuk memakai jasa mereka.
    
