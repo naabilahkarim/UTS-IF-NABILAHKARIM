@@ -74,6 +74,14 @@ erDiagram
     SLIDE{
         image foto
     }
+
+    KEAMANAN{
+        string username_stafkeamanan
+        string password
+    }
+
+    KEAMANAN ||--|{POSTINGAN : MELACAK_KONTEN_YANG_TIDAK_PANTAS
+     
 ```
 
 ## 4. Arsitektur Sistem
