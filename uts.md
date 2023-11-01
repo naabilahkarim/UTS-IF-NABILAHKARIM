@@ -70,6 +70,10 @@ erDiagram
       int jumlahLike
     }
     PENGGUNA ||--|{ PENGGUNA_LAIN : MENGUNJUNGI_PROFIL
+    POSTINGAN ||--|{ SLIDE : MEMPOSTING
+    SLIDE{
+        image foto
+    }
 ```
 
 ## 4. Arsitektur Sistem
