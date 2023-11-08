@@ -86,8 +86,13 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 
-
-    Database - PostgreSQL --> Aplikasi - JavaSwing
+```mermaid
+flowchart TD
+    A[Database]
+    A --> B[PostgreeSQL]
+    B --> C[Aplikasi]
+    C --> D[Javaswing]
+```
     
 ## 5. Teknologi, Library, dan Framework
 
