@@ -58,18 +58,14 @@ erDiagram
       string password
     }
 
-    PENGGUNA_LAIN ||--|{ POSTINGAN : MENYUKAI
-    PENGGUNA_LAIN {
-      string username
-
-    }
+    PENGGUNA||--|{ POSTINGAN : MENYUKAI
 
     POSTINGAN {
       image foto
       string username_pengguna
       int jumlahLike
     }
-    PENGGUNA ||--|{ PENGGUNA_LAIN : MENGUNJUNGI_PROFIL
+    PENGGUNA ||--|{ PENGGUNA : MENGUNJUNGI_PROFIL
     POSTINGAN ||--|{ SLIDE : MEMPOSTING
     SLIDE{
         image foto
