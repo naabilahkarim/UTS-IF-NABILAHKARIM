@@ -77,7 +77,7 @@ erDiagram
     }
 
     KEAMANAN ||--|{POSTINGAN : MELACAK_KONTEN_YANG_TIDAK_PANTAS
-     
+
 ```
 
 ## 4. Arsitektur Sistem
